@@ -36,3 +36,19 @@ Created a price tier mapping:
   - Medium
   - High
   - Missing values filled as "Unknown"
+
+## Visualizations
+
+- Scatter plots
+  - Review count vs. rating (original scale)
+  - Review count vs. rating (log-transformed scale)
+- Bar chart
+  - Average rating by price tier
+- Box plot
+  - Price distribution by price tier
+- Scatter plot
+  - Price level vs. rating for overall comparison
+- Interactive map (Folium)
+  - Visualizes all milk tea shop locations in San Gabriel
+  - Color-coded by price tier
+  - Movable and zoomable for geographic exploration
