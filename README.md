@@ -12,10 +12,27 @@ Queried the Yelp API to retrieve all milk tea shops within the San Gabriel, CA a
 
 Extracted business information including:
 
-  Name
-  Rating
-  Review count
-  Price level
-  Latitude & longitude
+  - Name
+  - Rating
+  - Review count
+  - Price level
+  - Latitude & longitude
 
 Loaded the results into a pandas DataFrame for analysis
+## Analysis
+
+Identified the top 10 milk tea shops based on:
+
+  - Rating
+  - Review count
+  - A weighted score using logarithmic scaling
+    (score = rating × log1p(review_count))
+
+Applied log transformation to review counts to reduce skewness and improve comparison
+
+Created a price tier mapping:
+
+  - Low
+  - Medium
+  - High
+  - Missing values filled as "Unknown"
