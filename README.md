@@ -52,3 +52,10 @@ Created a price tier mapping:
   - Visualizes all milk tea shop locations in San Gabriel
   - Color-coded by price tier
   - Movable and zoomable for geographic exploration
+
+## Key Insights
+
+- Log-scaled review counts provide a more balanced comparison between popular and less-reviewed shops
+- Higher-priced shops do not always correspond to higher ratings
+- Most milk tea shops fall within the low to medium price tiers
+- Geographic clustering highlights popular commercial areas in San Gabriel
