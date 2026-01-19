@@ -59,3 +59,12 @@ Created a price tier mapping:
 - Higher-priced shops do not always correspond to higher ratings
 - Most milk tea shops fall within the low to medium price tiers
 - Geographic clustering highlights popular commercial areas in San Gabriel
+
+## Tools & Technologies
+
+  - Python
+  - Yelp Fusion API
+  - pandas, numpy
+  - matplotlib, seaborn
+  - folium
+  - Google Colab
