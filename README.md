@@ -70,7 +70,3 @@ Created a price tier mapping:
   - Google Colab
 
 
-## Business practice: Core Business Question
-  “Where should I open a new milk tea shop in San Gabriel to maximize success?”
-### Business Objective
-  Identify geographic gaps and price–quality opportunities where customer demand exists but competition or saturation is lower.
