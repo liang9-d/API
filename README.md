@@ -74,7 +74,11 @@ Created a price tier mapping:
 ### Business Objective
   Identify geographic gaps and price–quality opportunities where customer demand exists but competition or saturation is lower.
 
-  -high competition area:  
-     Pasadena area, Santa Anita shops, Alhambra main street, Las Tunas Drive(from Alhambra main street to Temple City), Vally Boulevard(from South Garifield Avenue to Rosemaead Boulevard) 
+ - high competition area:  
+   - Pasadena area
+   - Santa Anita shops
+   - Alhambra main street
+   - Las Tunas Drive(from Alhambra main street to Temple City)
+   - Vally Boulevard(from South Garifield Avenue to Rosemaead Boulevard) 
   ### Business insight: 
-  - Opening in under-served neighborhoods reduces direct competition and may capture unmet demand.
+  - Insight: Opening in less-saturated areas near high-demand zones reduces competition and captures unmet customer demand. Pairing a medium-price strategy with strong quality may maximize adoption and success.
