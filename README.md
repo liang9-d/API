@@ -82,3 +82,8 @@ Created a price tier mapping:
    - Vally Boulevard(from South Garifield Avenue to Rosemaead Boulevard) 
   ### Business insight: 
   - Insight: Opening in less-saturated areas near high-demand zones reduces competition and captures unmet customer demand. Pairing a medium-price strategy with strong quality may maximize adoption and success.
+
+
+## Next Steps and Considerations:
+  - Conduct a comparative analysis of rental prices by location to identify the most cost-effective areas
+  - Evaluate local population characteristics to assess their impact on market pricing and customer ratings
