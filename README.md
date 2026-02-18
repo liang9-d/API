@@ -12,6 +12,9 @@ Create a Power BI dashboard to present store ratings, locations, and rankings in
 
 
 
+## Power BI dashboard:
+
+
 ## Price Level Lists:
 ### Price as $:
 ![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/lowtop10.png)
@@ -19,11 +22,21 @@ Create a Power BI dashboard to present store ratings, locations, and rankings in
 ### Price as $$:
 ![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/mediumtop10.png)
 
-## Power BI dashboard:
+### Price as $$$:
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/hightop.png)
 
+### Price as Unknown:
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/unknowntop10.png)
+
+### Rank by City and All stores:
+- City: 
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/rankByCity.png)
+- All stores: 
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/rankByAll.png)
 
 ## All stores location graph:
 ![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/sgMTMap.jpeg)
+
 
 # Technical Report: 
 
