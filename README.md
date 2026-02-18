@@ -8,6 +8,8 @@ The analysis is conducted in Python (Google Colab) using pandas for data manipul
 
 Create a Power BI dashboard to present store ratings, locations, and rankings in a clear and interactive format, enabling actionable insights at a glance.
 
+# Non-Technical Report: 
+
 # Technical Report: 
 
 ## Data Collection
