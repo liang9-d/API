@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This project uses the Yelp Fusion API to analyze milk tea shops in San Gabriel, California. The goal is to combine API data retrieval, data transformation, exploratory analysis, and visualization to uncover insights about ratings, reviews, pricing tiers, and geographic distribution.
+This project leverages the Yelp Fusion API to analyze milk tea shops in San Gabriel, California. The goal is to integrate API data retrieval, data transformation, exploratory analysis, and visualization to uncover insights about ratings, reviews, pricing tiers, and geographic distribution.
 
-The analysis is performed in Python (Google Colab) use pandas, matplotlib/seaborn, and folium.
+The analysis is conducted in Python (Google Colab) using pandas for data manipulation, matplotlib and seaborn for visualizations, and folium for interactive maps. SQL is used to determine the ranking of specific stores within a location as well as overall rankings.
+
+Create a Power BI dashboard to present store ratings, locations, and rankings in a clear and interactive format, enabling actionable insights at a glance.
 
 ## Data Collection
 
