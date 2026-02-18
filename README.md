@@ -13,7 +13,7 @@ Create a Power BI dashboard to present store ratings, locations, and rankings in
 
 
 ## Power BI dashboard:
-
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/yelpBI.png)
 
 ## Price Level Lists:
 ### Price as $:
