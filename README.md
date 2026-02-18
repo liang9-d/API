@@ -8,11 +8,16 @@ The analysis is conducted in Python (Google Colab) using pandas for data manipul
 
 Create a Power BI dashboard to present store ratings, locations, and rankings in a clear and interactive format, enabling actionable insights at a glance.
 
-# Non-Technical Report: 
+# Visualization Report: 
 
 
 
+## Price Level Lists:
+### Price as $:
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/lowtop10.png)
 
+### Price as $$:
+![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/mediumtop10.png)
 
 ## Power BI dashboard:
 
