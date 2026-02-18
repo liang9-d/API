@@ -14,6 +14,8 @@ Create a Power BI dashboard to present store ratings, locations, and rankings in
 
 
 
+## Power BI dashboard:
+
 
 ## All stores location graph:
 ![Descriptive Alt Text](https://github.com/liang9-d/API/blob/main/sgMTMap.jpeg)
