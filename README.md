@@ -8,6 +8,8 @@ The analysis is conducted in Python (Google Colab) using pandas for data manipul
 
 Create a Power BI dashboard to present store ratings, locations, and rankings in a clear and interactive format, enabling actionable insights at a glance.
 
+# Technical Report: 
+
 ## Data Collection
 
 Queried the Yelp API to retrieve all milk tea shops within the San Gabriel, CA area
